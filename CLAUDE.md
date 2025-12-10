@@ -119,3 +119,22 @@ If you find issues or want to contribute:
 ### License
 
 MIT License - Use freely for any purpose.
+
+---
+
+
+---
+
+## Deploy Configuration (for /deploy command)
+
+```yaml
+type: node
+deploy_method: github_only
+github: https://github.com/martinschenk/saas-starter-stack.git
+remotes:
+  - origin → GitHub
+deploy_command: "git push origin main"
+server: none (template project)
+production_url: none
+notes: SaaS starter template - users deploy to their own servers
+```
